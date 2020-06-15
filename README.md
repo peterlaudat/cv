@@ -1,6 +1,6 @@
 # PersonalSite-PeterLaudat
 
-This is my repository for [Project 1 Personal Web Page](https://course.ccs.neu.edu/cs5610su20-seattle/hw/su20wd/personal-web-page). This readme contains a description of [my self-developed personal site](https://mysterious-peak-32960.herokuapp.com/).
+This is my repository for [Project 1 Personal Web Page](https://course.ccs.neu.edu/cs5610su20-seattle/hw/su20wd/personal-web-page). This readme contains a description of [my self-developed personal site](https://morning-hollows-15096.herokuapp.com/).
 
 ---
 
@@ -14,7 +14,7 @@ The nav.css file changes the navigation link color slightly when you hover your 
 
 I wrote a little jQuery to turn the landing page paragraph fonts blue when you mouse over them, so please look for that.
 
-![Image of index.png](https://github.ccs.neu.edu/PersonalSite-PeterLaudat/blob/master/readme_images/index.png)
+![Image of index.png](readme_images\index.png)
 
 ---
 
@@ -22,13 +22,13 @@ I wrote a little jQuery to turn the landing page paragraph fonts blue when you m
 
 The resume link displays my resume.
 
-![Image of resume.png](https://github.ccs.neu.edu/PersonalSite-PeterLaudat/blob/master/readme_images/resume.png)
+![Image of resume.png](readme_images\resume.png)
 
 As previously mentioned, I copied and pasted the index page nav bar to the bio and tech pages, tweaked the relative path names for the links or navigation to the other pages, and employed the same nav.css file. I put HTML tables on both of these pages and employed table.css to again ensure consistent look and feel. The rows in the these pages' tables highlight light gray when you mouse over them.
 
-![Image of bio.png](https://github.ccs.neu.edu/PersonalSite-PeterLaudat/blob/master/readme_images/bio.png)
+![Image of bio.png](readme_images\bio.png)
 
-![Image of tech.png](https://github.ccs.neu.edu/PersonalSite-PeterLaudat/blob/master/readme_images/tech.png)
+![Image of tech.png](readme_images\tech.png)
 
 ---
 
