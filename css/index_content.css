@@ -1,0 +1,15 @@
+/* * {
+  box-sizing: border-box;
+  border: 1px gray solid;
+} */
+.content_container {
+  overflow: auto;
+  word-wrap: normal;
+  /* word-break:break-all; */
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Muli', sans-serif;
+
+}

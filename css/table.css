@@ -1,0 +1,35 @@
+.table_container {
+    align-items: flex-start;
+}
+
+table {
+
+    table-layout: auto;
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px gray solid;
+    font-family: 'Muli', sans-serif;
+}
+
+tr:hover {
+    background-color: gainsboro;
+}
+
+th {
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+    word-break: keep-all;
+}
+
+td {
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+    font-size: small;
+    word-break: keep-all;
+}
