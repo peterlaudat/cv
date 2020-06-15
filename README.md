@@ -44,4 +44,4 @@ The email link is a simple mailto: link an the work link takes you to Github.
 
 ## Responsiveness
 
-I employed flexbox wherever possible, which seemed make responsiveness relatively easy to maintain once you get the hang of it, generally. Other than that, I used a media query in nav.css to have the left and right navigation containers center vertically when the screen width narrows.
+I employed flexbox wherever possible, which seemed make responsiveness relatively easy to maintain once you get the hang of it, generally. I used a media query in nav.css to have the left and right navigation containers center vertically when the screen width narrows, and I used a media query in table.css to remove the padding, which allowed the tables in bio.html and tech.html to fit my Samsung GS8+ phone perfectly in portrait mode.
